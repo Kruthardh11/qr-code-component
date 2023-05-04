@@ -1,0 +1,16 @@
+body{
+  background-color: hsl(220, 20%, 85%);
+}
+.mid{
+  position: absolute;
+  top: 20%;
+  left: 42.5%;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  border: 
+  background-color: white;
+
+}
+
+img{
+  height: 300px;
+}

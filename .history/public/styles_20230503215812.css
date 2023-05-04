@@ -1,0 +1,8 @@
+body{
+  background-color: hsl(220, 20%, 85%);
+}
+.mid{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}

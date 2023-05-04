@@ -1,0 +1,13 @@
+body{
+  background-color: hsl(220, 20%, 85%);
+}
+.mid{
+  position: absolute;
+  top: 20%;
+  left: 42.5%;
+  transform: translate(-50%, -50%);
+}
+
+img{
+  height: 300px;
+}
